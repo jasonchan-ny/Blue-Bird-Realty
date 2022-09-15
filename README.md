@@ -1,7 +1,7 @@
 # Blue Bird Realty 🐦🏡
 ### ▪️ Jason Chan, Gianna Galard, Smilte Valasinaite 🖥️
 
-Blue Bird Realty is a house listing service inspired by the Zillow real estate website.
+▪️ Blue Bird Realty is a house listing service inspired by the Zillow real estate website.
 
 ## Our program has the following features:
 ▪️ Signup / Login
