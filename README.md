@@ -1,12 +1,23 @@
-# Blue Bird Real Estate 🐦🏡
-### ▪️ Gianna Galard, Smilte Valasinaite, Jason Chan 🖥️
+# Blue Bird Realty 🐦🏡
+### ▪️ Jason Chan, Gianna Galard, Smilte Valasinaite 🖥️
 
-## Our program allows you to:
-▪️ Register/Login  
-▪️ Create Listing  
-▪️ Search listing  
-▪️ Shows price, sqft, school zone...  
-▪️ Search agents  
+Blue Bird Realty is a house listing service inspired by the Zillow real estate website.
+
+## Our program has the following features:
+▪️ Signup / Login
+  - Allows a user to register and login to the program.
+▪️ Location Finder
+  - Allows a user to search up a property that is for sale. 
+  - User is prompted for either an address, city, state, and/or zipcode.
+  - System presents a list of properties that match the user provided search criteria including the full address, home value, rent value, square footage, school zone.
+▪️ Agent Finder
+  - Allows a user to find a match with a certain agent. 
+  - User is prompted for either a first or last name of an agent.
+  - System presents a list of agents that match the user provided search criteria including both the first and last name of the agents
+▪️ Listing Feature
+  - Allows a user to add on new properties or agents.
+  - User is prompted for all the necessary information whether its for a property or an agent.
+  - System appends the new listing to the existing list.
 
 ## Demo Pics:
 ![Register](https://user-images.githubusercontent.com/80483712/116246635-2a9ef600-a738-11eb-82e8-b6502d03a235.png)  
