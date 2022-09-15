@@ -5,7 +5,7 @@ Blue Bird Realty is a house listing service inspired by the Zillow real estate w
 
 ## Our program has the following features:
 ▪️ Signup / Login
-- Allows a user to register and login to the program.
+  - Allows a user to register and login to the program.
 ▪️ Location Finder
   - Allows a user to search up a property that is for sale. 
   - User is prompted for either an address, city, state, and/or zipcode.
